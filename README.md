@@ -1,0 +1,2 @@
+# Team-Tracker-Video-Frame-Analysis-with-Color-Masking
+This project processes a video by extracting frames and applying color-based segmentation to isolate team members based on their jersey colors. Using OpenCV, the notebook captures specific frames, converts them for visualization, and creates masks based on defined RGB thresholds. This foundational step enables further analysis like player tracking,
